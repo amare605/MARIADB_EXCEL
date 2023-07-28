@@ -12,4 +12,5 @@ Quick boilerplate to connect MariaDB and create Excel file in node.js.
     2-3.  npm i mariadb xlsx
     
 3.  TO execute the file:
-    node  MARIADB_EXCEL.js 
+  
+    3-1.  node  MARIADB_EXCEL.js 
